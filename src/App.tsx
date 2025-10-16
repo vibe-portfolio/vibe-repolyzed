@@ -26,7 +26,7 @@ function App() {
   const [progress, setProgress] = useState<IndexingProgress>({
     stage: 'fetching',
     percentage: 0,
-    message: 'Starting...'
+    message: 'Starting.. .'
   });
   const [error, setError] = useState('');
   const [sidebarCollapsed, setSidebarCollapsed] = useState(window.innerWidth < 640);
