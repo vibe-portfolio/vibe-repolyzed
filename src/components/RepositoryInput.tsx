@@ -40,7 +40,7 @@ export default function RepositoryInput({ onSubmit, loading }: RepositoryInputPr
             <Github className="w-12 h-12 text-white" />
           </div>
           <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-3">
-            Repolyzer
+            Repolyzed
           </h1>
         </div>
 
