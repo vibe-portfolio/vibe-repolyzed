@@ -1,8 +1,10 @@
-# Repo Chat Assistant
+# Repolyzed
 
-AI-powered chat interface to explore and understand any GitHub repository.
+Use natural language + AI to explore and understand any GitHub repository.
 
-![Repo Chat Assistant](public/og-image.svg)
+<img width="1094" height="622" alt="Screenshot 2025-10-16 at 4 12 48 AM" src="https://github.com/user-attachments/assets/f0b312df-362a-4a0a-89b4-2049cbb8ead5" />
+
+
 
 ## 🚀 Live Demo
 
