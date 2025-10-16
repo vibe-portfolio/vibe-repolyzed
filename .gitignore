@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.DS_Store?
+*.swp
+*.sass-cache/
+.vscode/
+.idea/
+*.log
+*.lockb
